@@ -1,4 +1,4 @@
-# Movie genre classifier
+# NLP based movie genre classifier
 
 This repository contains my implementation of a movie genre classifier(multi-label classification) which uses the Cornell movie dataset containing a large metadata-rich collection of fictional conversations extracted from raw movie scripts:
 
